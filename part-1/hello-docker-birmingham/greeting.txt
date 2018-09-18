@@ -1,0 +1,5 @@
+Hello Docker Birmingham!
+
+Have a nice day!
+
+Have a whale of a time!
